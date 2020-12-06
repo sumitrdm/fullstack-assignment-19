@@ -12,7 +12,7 @@ const back2 = document.getElementById('back2');
 const progress = document.getElementById('progress');
 
 //event handler
-next1.onclick = function() //anaoymous fn without name..
+next1.onclick = function() 
 {
     form1.style.left="-450px"
     form2.style.left="40px"
@@ -27,7 +27,7 @@ back1.onclick = function()
 
 }
 
-next2.onclick = function() //anaoymous fn without name..
+next2.onclick = function() 
 {
     form2.style.left="-450px"
     form3.style.left="40px"
